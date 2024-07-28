@@ -10,6 +10,8 @@ public class dangnhaptk : MonoBehaviour
     public TMP_InputField password;
     public TextMeshProUGUI thongbao;
     public string namescene = "dangky";
+    public string scene = "menu";
+    public float delay = 2;
     public void dangnhapbuton()
     {
         StartCoroutine(DangNhap());
@@ -18,6 +20,15 @@ public class dangnhaptk : MonoBehaviour
     {
         SceneManager.LoadScene(namescene);
 
+    }
+    public void menugame()
+    {
+        StartCoroutine (loaddelay());
+    }
+    IEnumerator loaddelay()
+    {
+        yield return new WaitForSeconds(delay);
+        SceneManager.LoadScene(scene);
     }
     IEnumerator DangNhap()
     {
@@ -51,6 +62,7 @@ public class dangnhaptk : MonoBehaviour
                 thongbao.text = "Đăng nhập thành công";
                 PlayerPrefs.SetString("token", get);
                 Debug.Log(get);
+                menugame();
             }
             
         }

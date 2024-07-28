@@ -38,9 +38,9 @@ public class dangkytk : MonoBehaviour
             switch (get)
             {
                 case "exist": thongbao.text = "Tài khoản đã tồn tại"; break;
-                case "OKE": thongbao.text = "Tài khoản đã đăng ký thành công"; break;
+                case "OK": thongbao.text = "Tài khoản đã đăng ký thành công"; break;
                 case "ERROR": thongbao.text = "Đăng ký không thành công"; break;
-                default: thongbao.text = "Không thể kết nối tới sever"; break;
+               default: thongbao.text = "Không thể kết nối tới sever"; break;
 
             }
         }
