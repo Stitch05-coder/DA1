@@ -1,0 +1,6582 @@
+fileFormatVersion: 2
+guid: f4523940fcc34b94dbc0bf3b284de7e3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mapppp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6f364cbab79664f9722a2693ba82b8
+      internalID: 1148881623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38ae6bfa2c913e43850074222d4d022
+      internalID: -1221986773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c231a877ddcafed4f91a5c86056eabf5
+      internalID: -2014775142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f92ddb779d3ec49a31493f876ce8bd
+      internalID: -1001971324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e091d372fec59a41b60f28d17174fa3
+      internalID: -906244929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76e041e223e362499b0f3a62ba0efd9
+      internalID: -2052486521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9e2f89696e5be4a8bc288ce0d37941
+      internalID: 1970948016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08417781db85234593887f34530dc43
+      internalID: -732186781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8429c49de83e24b4193bf60b8a12cfa1
+      internalID: 399537755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d610565b4705c429996c70eaa2d1e1
+      internalID: -1680582317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938a993d330831b4aaa4fc5d7d77e747
+      internalID: 124529331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcac5ccba151af4eb6f32cfc5016261
+      internalID: 1440551072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dec6fae4352aa4389e38a2248b232a
+      internalID: 1377556150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a818574e48ca764ba435e174f413c74
+      internalID: 488215206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5c857fdcad31243a933a3bb3c43521
+      internalID: -679154678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cd1b95018e70b459d840cd707f6738
+      internalID: -1259723143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908f18960821d554db13ce4064fae305
+      internalID: 1114445338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_17
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b308b5ad139769548a6357887e42bdd4
+      internalID: -342662879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4870953396585f34fbd33f357a9dd86b
+      internalID: -2112615447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8e17647214b3948837d493d3ec9c6f
+      internalID: 195789808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a267aae7f2f724c9075382ee5cb79d
+      internalID: -598777262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dc117d266bd8047930f03762799bfb
+      internalID: -425817121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033a20bbea3daef4894d838fa4a6756f
+      internalID: 1422814220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7476a956874dc46ae2f5d56d91014f
+      internalID: -71742870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f6d31b22f09da449a344fa8fb7745d
+      internalID: 975334013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2f0507c8901254c8b8b0256dab84b2
+      internalID: 29891159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552bb27364dc3aa4fa3486b1eb2fc68d
+      internalID: 1991463690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b2224188d5e964ab9aaf1cf5f16c39
+      internalID: 637145210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_28
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a63c1251c95484585cad10e6e77bd8
+      internalID: 956611425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982cf906a986b0e4ba46332782659a67
+      internalID: 1417213504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_30
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e110a364f3820994abf44183b4d1f943
+      internalID: 1446721560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278698b0270ec054fb567167110730fc
+      internalID: -1133664726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_32
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f3a4e1677ed1444ab5228ba4e9bf9b
+      internalID: 2143710931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1397f6410f559d64e8886f0345e6c14b
+      internalID: -1646086737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_34
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc4dc955e3ddf54bbdc8aff71357883
+      internalID: -1337983708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_35
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46098bc44517349409050046d86fe9fe
+      internalID: -985000675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_36
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1be2b845f529143b5968fe5e6830b2
+      internalID: 405647029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_37
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1606e675c3502a4f830e507c42d40bc
+      internalID: 278332420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_38
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846fba8c1dcc1ef45b91a08bf59a90ee
+      internalID: 1545239695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_39
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3af5d179b28dd498a04b4d36a5b117
+      internalID: -383342240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_40
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d7d1e11c259c74eaead2f86b6f7266
+      internalID: -1247110097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2be973e5bc65554993df85bf1a588c7
+      internalID: 738943822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee6975e47c599a489f300b312a13d63
+      internalID: -1106847707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca602f364ba9b2745b5f6500b6aa18b3
+      internalID: -1680709678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9170688fa0ef8834a854196461f516e4
+      internalID: -508572061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_45
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dd5c4a4d85494448409fdae9e7d325
+      internalID: 654907323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c1e764083223245a9055f12d2c3b7a
+      internalID: 2118393613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5ed4aa5fea4d14ea836fe94e346c3d
+      internalID: -1529651444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d4332ec5dc3b54cbe5e996d9848abb
+      internalID: 1618134370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_49
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191cf2a43c598e5489bcd09094932315
+      internalID: -998592817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f923f5fbbf5b4498942a8716fab0da
+      internalID: -928775839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_51
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762fa3e5c8677b04fa07b6889bdb26cd
+      internalID: -1581603795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5df440e235931842b0dcbcd505fce61
+      internalID: 1754807766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_53
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427b7c0b74b1cfe49a9767b17840ecb0
+      internalID: 311077441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_54
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5027e22a866a2664895b855d50a6be97
+      internalID: 10667180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_55
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b256a788669c010409150fb645c20d7b
+      internalID: 334794037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_56
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca33bd74e7f8b2418df8ad75088a2b9
+      internalID: -40885595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_57
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe5d4e84d96b8841b5b64c4bef72f02
+      internalID: 1422995294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_58
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971f178b617d0874a80a5da18a952db8
+      internalID: -1505002159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_59
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9599b022679bb6c4eada8655bb8048de
+      internalID: 1270117278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_60
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e08ef2fae8f2c4ab0520801138ed80
+      internalID: 1332586859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_61
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b55f44ae7e6e2b40bda1f9e5d97d103
+      internalID: -698525964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_62
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c915e588b63fc7840a3a33f948995bce
+      internalID: -2137922629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2fa53824445b14ea984503da32aa90
+      internalID: -1595730018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_64
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2419c57ba8982304da87e9931e9c8228
+      internalID: 1450632056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_65
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa27d84955f1aa4085aa8c893f05a1e
+      internalID: -1320559664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_66
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f462a5c801be9408751a8a13fcfc24
+      internalID: 1596967689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f59318f98a4ce342824236e81de06ba
+      internalID: -610386835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_68
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a08011113dc084fac839ab918e72d9
+      internalID: -206276576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62af15e4977f0484a95d2208f4047b07
+      internalID: 1686322738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_70
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3959c4536fdc1254991d5d6455af97b8
+      internalID: -1701900207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d20ee4e5ad84343aef7b44f68e398e
+      internalID: -726724493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_72
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea09dcadd13a5441b8fc588f73dc4f5
+      internalID: 1354847953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_73
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc51352620845c4bb22bd3aa8a88a7e
+      internalID: -532916317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_74
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3505c1b40ef69418ce7893b206c142
+      internalID: -1789069928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_75
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b355352f575581a49a9e0d6ca524c1ba
+      internalID: 1260796405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96d8d8ffa96b3f4badae930a1f1e331
+      internalID: -1528335253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_77
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1465336641bac4884fc445b1d493a8
+      internalID: 391834426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_78
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40474c9a44d8b8f4dbc430228cb288d8
+      internalID: 1669514209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_79
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2406e5567510f943a1a41e8d90ee6c9
+      internalID: 2015248589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_80
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dc9182b62018b4f8807acbeebe3ccb
+      internalID: -1979418410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_81
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22526ce82e1fc746ac7cde2a5642ff5
+      internalID: 378786912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_82
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a418508df4abc09489ea15c251017756
+      internalID: 1530997992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_83
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee68e35b41574024d9dfc5e2ed8e52a5
+      internalID: -53657211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d38ec9811312584bbef8ea596692c06
+      internalID: -1346577834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_85
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569a60e16b593584e8726696ddebe18e
+      internalID: -13076548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_86
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f43a486b3c73b4185d4842686beb4a
+      internalID: 1151702813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_87
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493d8be45687ba549afbac1c9585772f
+      internalID: 1222194221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_88
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b654fb3c79d0b418a8c71392670e80
+      internalID: -1952538744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_89
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2022f5a96c792c48ba49ae30be02a22
+      internalID: -1203711643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_90
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0ac03db8ff42b4d998661fc2599379
+      internalID: -1103950931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_91
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06054f02d15bc5d4f9b072717c4fbe6e
+      internalID: 1780071881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c071d05b58cf5459979e4f35277714
+      internalID: -307381348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_93
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0184666cf998e394f8d30f3db4fee029
+      internalID: -1308322857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_94
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913b1ccaa36146e48b356f53f115f551
+      internalID: 1830805200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_95
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaf34aee3e4b6c4e920645338a6dcc2
+      internalID: 2130160932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_96
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c1b7a465d20e045973609a1ddb5c46
+      internalID: 287682697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_97
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f612cb0247407b439d2554bbbb81776
+      internalID: -1303456479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_98
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbf9ab7c4ac93b48b162b83ef46456f
+      internalID: -533410798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_99
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e593913ef785a43bfb54fbce7cf37a
+      internalID: -6719119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_100
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b7023ea4ded324cb141adeeb521c18
+      internalID: 1282956303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_101
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5fac61b1c45d646b6cec2920d54414
+      internalID: -1879888881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_102
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85841a56b1fa0b4ba8cfdb373aee385
+      internalID: 2047395183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_103
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55120aa22f241454a9cb8d74b6e6eb04
+      internalID: 721226962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_104
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1564ed5dd81b52e49b9db8f85d6e88b2
+      internalID: -1438990592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5791baa740c560438f2bd2e4bd744b1
+      internalID: 962843029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_106
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9134cd4e0539e2a419800860f8bdf798
+      internalID: -186565617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_107
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b8e2ee04a23ab478a3eca38ecceda6
+      internalID: -1587644298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_108
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d6acb8ccf8f4c4091a0cdcfb1d851f
+      internalID: 356148391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eaf680bddfac94685bc9846a66b3ab
+      internalID: -1050383340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_110
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23cba4c487cee74fb90379311e8ccda
+      internalID: -42977238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_111
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2beb6da86aa98b42ab3facd0f8221b0
+      internalID: 2023136313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_112
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe41445727b48e24a99faf4842433a52
+      internalID: 1819709823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f400165a82f085547b97ab34b6a8441b
+      internalID: -1837492013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_114
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743e71ae913a85945a36944d69d69de8
+      internalID: -1077891163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_115
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf6d05c27379f74db17b6f7c21d58ae
+      internalID: -1670509847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_116
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97efb5b02d8d07649b8a299f7d265d56
+      internalID: 1483103325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_117
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4825172586d5a46aeab1826369a525
+      internalID: -377575698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_118
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e085de9e4ebc4014cb526ae4408069f9
+      internalID: -987694950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_119
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe1c543a6ce0da4286ffc474bb3fd55
+      internalID: -163493766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_120
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cccd1a4599e9e14fb9ab4feaea888ca
+      internalID: -1073812453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d6efd90b9c8f84680ce95f4fe59193
+      internalID: 826152539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_122
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b059028c304509944b146f23127964f0
+      internalID: -196654039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_123
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d2c88fdbe56214ab25ac643080e5ba
+      internalID: -1245271255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_124
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f0de51bef47d24a86c086c6f3b4ed0
+      internalID: 59301217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_125
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd17191119cd2f743a01912ec7373b5b
+      internalID: 418916697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c7db75a64160f4ebb542b60edabe76
+      internalID: -1693840680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_127
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28adc9102c4afa846a0f3eba0f501f95
+      internalID: -967515466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_128
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a04b239754c0e14e894ce1f639f8485
+      internalID: 2133853529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_129
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0def2d121dc01345a4968aef1be5fdc
+      internalID: -1163351097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_130
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38fb96e77c01ed43b8d3058742970b5
+      internalID: 1957074012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_131
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aa9d7864d6d3c4394633315b27dd44
+      internalID: -1267810354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_132
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284d256e08fa8ad49b8057e5e9d8cabe
+      internalID: 1568064497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_133
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903a39e6e0950454690452ef088d4a72
+      internalID: -156416875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea51b581a93e4c43b293cf252a9c813
+      internalID: -150196639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_135
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180c7db60a28e8d4fbc0dba7d7df640e
+      internalID: -1498158589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_136
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8b0e8605bdf11489e0462f6436b5be
+      internalID: -1061215150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_137
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9410f92f3ef67954c8a1be4ea01f231f
+      internalID: -1552222176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_138
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d288086ec8a7bba439fb958003811dfa
+      internalID: 895037274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_139
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a1f402f1afee64f9e56c2eb5d3b668
+      internalID: 1692683039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_140
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60792f1d0b198ad458021bf0650a3c99
+      internalID: 702348241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_141
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d79e242b07b6eb4685948cbdda483ba
+      internalID: 2137256691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbed298f5bb3f334e9902f690c1ca544
+      internalID: -10225556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_143
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719d8295cc4f9d9448f83376fbd5f7cd
+      internalID: 1928071180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_144
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002a9b266d866c443ab54b1c5dd75203
+      internalID: 863988236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_145
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69d68aa477cf69499ba8d1ca52ffde9
+      internalID: -1068375664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_146
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3140f212800a48b4d9313e8f49d753be
+      internalID: 301623554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b495156e75a4aa441882ab6fd24692cd
+      internalID: -162314552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_148
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b3ebeb986c7ee439f8af6e9d859e24
+      internalID: -958650937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_149
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22a3a72c00663545aafa223c473912c
+      internalID: -1787949054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_150
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd35074360057a4cb53d822f48c4ca0
+      internalID: -355005452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_151
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b8b4ae525658347a1bfcfbc901ca0f
+      internalID: 99957670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_152
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf62561afb87c44c882104ba6fc9f54
+      internalID: -1912799741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_153
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eec1ee6961ee3d4081479e95767f923
+      internalID: 1270111728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_154
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cfbf0ec9191d642aa828a064eecfde
+      internalID: 1020852152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_155
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436d1583aa9c7304ba212dec8dad55d7
+      internalID: -711369695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_156
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a40af6564159148a7cb034cb7959e7
+      internalID: -1237143566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_157
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9c94818a96fdb488df53395d3845cb
+      internalID: 464580404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_158
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a668b36fa779b5641bf31072c129a6fa
+      internalID: -494867607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_159
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f635234c1b1126a4eb3169c844dd298f
+      internalID: -1939102080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_160
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d856b9b8d75579146b54137b6b180155
+      internalID: -1666003332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_161
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eea603093c8c64a8387da9fa1c24eb
+      internalID: -1338499700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_162
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3f2019593dd6146ac82639f4a13c28
+      internalID: 2054862462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_163
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f428e907a8013b4f9475265a8d10440
+      internalID: 2050574552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_164
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a49c47478e642848931af329411ebb5
+      internalID: -901335996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_165
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5c5bbc43a61874e8966bec1c9a1fdb
+      internalID: 773536022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_166
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2259db4d70688894ba463bdcd0fd5bf6
+      internalID: 839451399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_167
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20bec6c00f4b8745ae1eb136e9973ce
+      internalID: 605207027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15c22edcf9a9d14bbf111118781b0fe
+      internalID: -1411019919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_169
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c0704121d8a4248ae3a7fbb0278fe8
+      internalID: 1582934153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_170
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e30f3b89dfe9f4dadf0b16ab3fd846
+      internalID: -1003767115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_171
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d052c601f6a4b244816fbd0f51ea9b7
+      internalID: -2027859363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_172
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cb513bc18c90444b35cd1c76738997
+      internalID: -34713811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_173
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1fc21720dbc5342a1c5839ec65d72b
+      internalID: -1194853807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_174
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c438cfe8b6a46449178369ae0f1bc9
+      internalID: 2007401779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_175
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4e02023147afe43b2c73459e8af2e5
+      internalID: -1273043618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_176
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c9697d8bbac1d46a59e9f03f1da79f
+      internalID: -1788942424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_177
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7b7c6575dffc545adc1178515d27cd
+      internalID: -1821927103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_178
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c018b080f0cb96498f5d409a930409b
+      internalID: 987946430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_179
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dff779dc020f248ae93a73193133d6
+      internalID: 468038301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_180
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc1df46865cf21469d477c231234f1b
+      internalID: 1583609666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_181
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673f2e135765970439624a930c5b2f08
+      internalID: 691310252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_182
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c611a8a2d2ef84548a5a399de48d079c
+      internalID: -2020307841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_183
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e05430d294657245bb146b96fe62611
+      internalID: 280057477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_184
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835a6198e109dad4e838369e20e78ea6
+      internalID: -582127230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_185
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8570a113033396349a3d33513513eca2
+      internalID: -1437627170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_186
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471f5516a29a59442966d881772f2b02
+      internalID: -2092406301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_187
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda2bf55fb53fa24086eae4b7fa6425c
+      internalID: 1745170235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_188
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b401193a40d3bb4d81de10d46cc42aa
+      internalID: 1464747378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea687d97dbd548246a421e391fac24a2
+      internalID: -1169975612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_190
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377e7732fc597154fb6cf041feaa7f20
+      internalID: 1806180660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_191
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbde78c1b0d0b8742b7c6d3aa3d9e886
+      internalID: -765093800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_192
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a002398d53d97c4a821fdafa656196d
+      internalID: 1862646736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_193
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2199ea824cde242478091673c43a0612
+      internalID: 1845790545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_194
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3d08a7fc1d44946b6d052c1895fab6
+      internalID: 626873048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_195
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6ed041ff5b48d41b47cc5bc9c1ab6c
+      internalID: -1487195684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_196
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76d9da2d90c2b647ac95390bbe7d6d0
+      internalID: 17630786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_197
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ebcd2602b12904a8df3048174b22d6
+      internalID: 1221797822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_198
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021eaa9254759e34688ef6ac7098aecc
+      internalID: 181091324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_199
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217fd9cf7eadca94ca3501de476d07af
+      internalID: 509129525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_200
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babbdcb727128cc4ba39b5545ee30eb0
+      internalID: -1411506545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_201
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b6956ac33be3c4797e70379b902b7d
+      internalID: 1357226330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_202
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77d9c8f3bf4322408e8a358cd6e652e
+      internalID: -1693325963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_203
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22af3f25a8164f40ac5c93609a3a8c6
+      internalID: 1840389418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_204
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2178905879c71ff4982cc01f1f8ff9e4
+      internalID: -1792249375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_205
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe26120d018b564d8229ffde44a525b
+      internalID: -765057738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_206
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068fcf21002dc4a4faceb8c5675b55d5
+      internalID: 491863925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_207
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ec165258021a4499b17585664feb9c
+      internalID: -117781716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_208
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a49a5f9fbaeaa489e22b9a9cd9088c
+      internalID: -1905008732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_209
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc78ec3b3229b04ba3747ec69398094
+      internalID: 197676827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59142863741d8842b9575f7fac16fe1
+      internalID: 943369992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_211
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c43707ae1b47d4bbffebd6349189e0
+      internalID: 75906044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_212
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3e0479341da5045b5d1857c0f0104c
+      internalID: 2017162472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_213
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4bd7da49668f741894faee72b10631
+      internalID: 855760149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_214
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0ab861956c3da4b82b619ad5a49d06
+      internalID: -320115208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_215
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380120e8f6575dc48b67e2d90febfeca
+      internalID: -1550167776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_216
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542eb7410a0b77f4298c089f4c9a9162
+      internalID: -970403209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_217
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c709fe353a0c04a42874bae92ceadc48
+      internalID: 1504090863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_218
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026659a7a7402884fb272d5f33f822a2
+      internalID: -966509446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_219
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cea0f64c04991140810e345b9a95e86
+      internalID: -547830947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_220
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a81d3fa672cbc4ebeadf7f464e1b15
+      internalID: 491248405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_221
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0980667a0202c8146a9b051d55bd9aea
+      internalID: 1936385099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_222
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c1088859213aa44bfdb94fca97ed08
+      internalID: 299052090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_223
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5be481075895d4581e84a2be9149a5
+      internalID: 1007640871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_224
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fd4ef1c5ff55840bf4695843e4dfd4
+      internalID: 1789731416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_225
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6d6e57c512930468c1fe9e2835407a
+      internalID: 1912155153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_226
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4ce0f794086ee42a452f6ebe95d211
+      internalID: -841757059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_227
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b06cfc0a684254e842a9aa97fd5769
+      internalID: 1105796550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_228
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4dea70529173f46b707cd7735105d8
+      internalID: 957806822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_229
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390af1b08c9724448acbb6395c7c9dd8
+      internalID: -124204262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_230
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc11c7934ea0d924e9ef3db5366ca5f1
+      internalID: -1758083710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5421e8258f177de4a9289ba3849a4beb
+      internalID: -1258011269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_232
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c7f0809fd338749b7400e085d23282
+      internalID: -1332045498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_233
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b661779b96185f94f9487f766c6c2309
+      internalID: 2116419675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_234
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bdbf299077a1b43a31a04a6544415f
+      internalID: -409268780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_235
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e95894f7be291468f85363c56ae476
+      internalID: 1589725827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_236
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8806e6d270893f419caffb2522719c9
+      internalID: -763211629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_237
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f9b5657847f4a48b4776ade866fd18
+      internalID: 1933133178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_238
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95004ffcd0028e141b907192a056b5dd
+      internalID: -1980551537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_239
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6997b4413315f1a46b974cd93d25b68c
+      internalID: 1594296992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_240
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a692b925f660ea14b91d54bcc1886d7f
+      internalID: -1110132202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_241
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c8bc57ae3776f449ed13bf2041180c
+      internalID: -1652346300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_242
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8300c2c4b10474144b0cccbb75aa62f1
+      internalID: -2028549792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_243
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a412d95ccd33634d9db4f7d58f130a2
+      internalID: 416091325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_244
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911ad10fe2e2e0448b981727cdb37501
+      internalID: -82046281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_245
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2487a55cf8244a84aa08b8a5cbe38f06
+      internalID: 1148083587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_246
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ec2503d38902d45ae662ba134111c0
+      internalID: 1383391273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_247
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0098aafad9af742ae4b71d4f513d7a
+      internalID: 1208325722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_248
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c853d1839336524196afcc0514c6448
+      internalID: 466645635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_249
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c3db7c814d00346975e06e59ecf52a
+      internalID: -1393033600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_250
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cc84d697a8cdf40b230b81a9dc5a19
+      internalID: -258045519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_251
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbc7a34c8e98cc4e86aaa6107aacb54
+      internalID: -1588134664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc7ba7ba54ede6409ef879e442d44bf
+      internalID: -1886663037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_253
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e9c1a6a0c311b4bb1395f9374e4752
+      internalID: 1017367204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_254
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930efe5f3c831144281e9daa03231660
+      internalID: -45318196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_255
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ee20b5406215e41b0fe92f3ac2c7ea
+      internalID: -1802986495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_256
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818120e341997064b8d095aaa9562ec7
+      internalID: -435017391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_257
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed35e0865859494d8304f3c38eb05fe
+      internalID: -955780403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_258
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05575210d1fb5f4caa09689f3eb5498
+      internalID: 287162511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_259
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a813691b99f1b0444b7d086f759948ba
+      internalID: 1243042360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_260
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7180b51dfd45a4b8d0c57827a77c30
+      internalID: 141465217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_261
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e608e61662f9b94094be2069fb27827
+      internalID: -981078154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_262
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2d183f022bc6342954d7d94667e4a3
+      internalID: 1653594837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_263
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c920109b0099242bd8fd5dab338633
+      internalID: -1559126475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_264
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b620649dba88c6f4b8b7bc16be1c83ff
+      internalID: -539275368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_265
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9b9ef30d011bd46833e05966e1a5e0
+      internalID: -1405640354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_266
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef8d4a25c308ad428092047eb7b6da6
+      internalID: -2096528442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_267
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd9b0cfbfab46046a0409a0d56f9f3a
+      internalID: -1875600786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_268
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a9fd7424efb7a4f9e84fff553bb440
+      internalID: 89268026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_269
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cbaf2c105e0e149b9db87aa2ea0594
+      internalID: -1727903020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_270
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6723ab4bdf62d404ea96997af7af0f9e
+      internalID: 153343626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_271
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ad63498b5f36243925ebb24b9e839b
+      internalID: -75011212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_272
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d9fa70d60cee34abb3a1f59becb911
+      internalID: -29036674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_273
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cff6242ac0e7d478f168ab9a217051
+      internalID: -1174197869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_274
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4545477c9d554ee498056c7858adc1bf
+      internalID: 1432698037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_275
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a673a750e38ad134f931b80f99981623
+      internalID: 1636714638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_276
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea9c78b671ce634290d2698f04c69b9
+      internalID: 2082467001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_277
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5378048ea265c3842bf9428362744266
+      internalID: 1254486831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_278
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6af0bcb875b658418b06018aaf53be2
+      internalID: 1991951910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_279
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769c38ddf9d3e704ab1c0a0e76c502e5
+      internalID: -1395732495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_280
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a7b119ed1053f448da2d69c39a9533
+      internalID: 1736671072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_281
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e70b3dd962870240b240a731169bf7a
+      internalID: -2142088176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_282
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c111ce3c4204d14ca9b03535e9e0f5f
+      internalID: 642327268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_283
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13457478610a9d4690bf6a71035d0cc
+      internalID: -1003295944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_284
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72674d53cc2fa38459d96592bec66de1
+      internalID: 458537773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_285
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f4bba83c79e454dbd01f7edaffbcf6
+      internalID: 1500612423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_286
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39525023461490b49b204477e155c3fa
+      internalID: -1507609624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_287
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c493ed662a7ba9344a756c31095ff359
+      internalID: 1005551178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_288
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db35c37a3cfd1940b15afaac9c886e8
+      internalID: -1701882663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_289
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca8a887dbc52f745a5596fb260fd9f1
+      internalID: -1883403405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_290
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1a6151cf21e1544bf4d561f834903d
+      internalID: 547167961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_291
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385d8176510034b419eda790a5935215
+      internalID: -363209339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_292
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d24ecbcfd4c0bf43901acf01f2c0f7d
+      internalID: -292452924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapppp_293
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dcc8a6babf972459dd9dfa3bc31c8a
+      internalID: 87877371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mapppp_0: 1148881623
+      mapppp_1: -1221986773
+      mapppp_10: 124529331
+      mapppp_100: 1282956303
+      mapppp_101: -1879888881
+      mapppp_102: 2047395183
+      mapppp_103: 721226962
+      mapppp_104: -1438990592
+      mapppp_105: 962843029
+      mapppp_106: -186565617
+      mapppp_107: -1587644298
+      mapppp_108: 356148391
+      mapppp_109: -1050383340
+      mapppp_11: 1440551072
+      mapppp_110: -42977238
+      mapppp_111: 2023136313
+      mapppp_112: 1819709823
+      mapppp_113: -1837492013
+      mapppp_114: -1077891163
+      mapppp_115: -1670509847
+      mapppp_116: 1483103325
+      mapppp_117: -377575698
+      mapppp_118: -987694950
+      mapppp_119: -163493766
+      mapppp_12: 1377556150
+      mapppp_120: -1073812453
+      mapppp_121: 826152539
+      mapppp_122: -196654039
+      mapppp_123: -1245271255
+      mapppp_124: 59301217
+      mapppp_125: 418916697
+      mapppp_126: -1693840680
+      mapppp_127: -967515466
+      mapppp_128: 2133853529
+      mapppp_129: -1163351097
+      mapppp_13: 488215206
+      mapppp_130: 1957074012
+      mapppp_131: -1267810354
+      mapppp_132: 1568064497
+      mapppp_133: -156416875
+      mapppp_134: -150196639
+      mapppp_135: -1498158589
+      mapppp_136: -1061215150
+      mapppp_137: -1552222176
+      mapppp_138: 895037274
+      mapppp_139: 1692683039
+      mapppp_14: -679154678
+      mapppp_140: 702348241
+      mapppp_141: 2137256691
+      mapppp_142: -10225556
+      mapppp_143: 1928071180
+      mapppp_144: 863988236
+      mapppp_145: -1068375664
+      mapppp_146: 301623554
+      mapppp_147: -162314552
+      mapppp_148: -958650937
+      mapppp_149: -1787949054
+      mapppp_15: -1259723143
+      mapppp_150: -355005452
+      mapppp_151: 99957670
+      mapppp_152: -1912799741
+      mapppp_153: 1270111728
+      mapppp_154: 1020852152
+      mapppp_155: -711369695
+      mapppp_156: -1237143566
+      mapppp_157: 464580404
+      mapppp_158: -494867607
+      mapppp_159: -1939102080
+      mapppp_16: 1114445338
+      mapppp_160: -1666003332
+      mapppp_161: -1338499700
+      mapppp_162: 2054862462
+      mapppp_163: 2050574552
+      mapppp_164: -901335996
+      mapppp_165: 773536022
+      mapppp_166: 839451399
+      mapppp_167: 605207027
+      mapppp_168: -1411019919
+      mapppp_169: 1582934153
+      mapppp_17: -342662879
+      mapppp_170: -1003767115
+      mapppp_171: -2027859363
+      mapppp_172: -34713811
+      mapppp_173: -1194853807
+      mapppp_174: 2007401779
+      mapppp_175: -1273043618
+      mapppp_176: -1788942424
+      mapppp_177: -1821927103
+      mapppp_178: 987946430
+      mapppp_179: 468038301
+      mapppp_18: -2112615447
+      mapppp_180: 1583609666
+      mapppp_181: 691310252
+      mapppp_182: -2020307841
+      mapppp_183: 280057477
+      mapppp_184: -582127230
+      mapppp_185: -1437627170
+      mapppp_186: -2092406301
+      mapppp_187: 1745170235
+      mapppp_188: 1464747378
+      mapppp_189: -1169975612
+      mapppp_19: 195789808
+      mapppp_190: 1806180660
+      mapppp_191: -765093800
+      mapppp_192: 1862646736
+      mapppp_193: 1845790545
+      mapppp_194: 626873048
+      mapppp_195: -1487195684
+      mapppp_196: 17630786
+      mapppp_197: 1221797822
+      mapppp_198: 181091324
+      mapppp_199: 509129525
+      mapppp_2: -2014775142
+      mapppp_20: -598777262
+      mapppp_200: -1411506545
+      mapppp_201: 1357226330
+      mapppp_202: -1693325963
+      mapppp_203: 1840389418
+      mapppp_204: -1792249375
+      mapppp_205: -765057738
+      mapppp_206: 491863925
+      mapppp_207: -117781716
+      mapppp_208: -1905008732
+      mapppp_209: 197676827
+      mapppp_21: -425817121
+      mapppp_210: 943369992
+      mapppp_211: 75906044
+      mapppp_212: 2017162472
+      mapppp_213: 855760149
+      mapppp_214: -320115208
+      mapppp_215: -1550167776
+      mapppp_216: -970403209
+      mapppp_217: 1504090863
+      mapppp_218: -966509446
+      mapppp_219: -547830947
+      mapppp_22: 1422814220
+      mapppp_220: 491248405
+      mapppp_221: 1936385099
+      mapppp_222: 299052090
+      mapppp_223: 1007640871
+      mapppp_224: 1789731416
+      mapppp_225: 1912155153
+      mapppp_226: -841757059
+      mapppp_227: 1105796550
+      mapppp_228: 957806822
+      mapppp_229: -124204262
+      mapppp_23: -71742870
+      mapppp_230: -1758083710
+      mapppp_231: -1258011269
+      mapppp_232: -1332045498
+      mapppp_233: 2116419675
+      mapppp_234: -409268780
+      mapppp_235: 1589725827
+      mapppp_236: -763211629
+      mapppp_237: 1933133178
+      mapppp_238: -1980551537
+      mapppp_239: 1594296992
+      mapppp_24: 975334013
+      mapppp_240: -1110132202
+      mapppp_241: -1652346300
+      mapppp_242: -2028549792
+      mapppp_243: 416091325
+      mapppp_244: -82046281
+      mapppp_245: 1148083587
+      mapppp_246: 1383391273
+      mapppp_247: 1208325722
+      mapppp_248: 466645635
+      mapppp_249: -1393033600
+      mapppp_25: 29891159
+      mapppp_250: -258045519
+      mapppp_251: -1588134664
+      mapppp_252: -1886663037
+      mapppp_253: 1017367204
+      mapppp_254: -45318196
+      mapppp_255: -1802986495
+      mapppp_256: -435017391
+      mapppp_257: -955780403
+      mapppp_258: 287162511
+      mapppp_259: 1243042360
+      mapppp_26: 1991463690
+      mapppp_260: 141465217
+      mapppp_261: -981078154
+      mapppp_262: 1653594837
+      mapppp_263: -1559126475
+      mapppp_264: -539275368
+      mapppp_265: -1405640354
+      mapppp_266: -2096528442
+      mapppp_267: -1875600786
+      mapppp_268: 89268026
+      mapppp_269: -1727903020
+      mapppp_27: 637145210
+      mapppp_270: 153343626
+      mapppp_271: -75011212
+      mapppp_272: -29036674
+      mapppp_273: -1174197869
+      mapppp_274: 1432698037
+      mapppp_275: 1636714638
+      mapppp_276: 2082467001
+      mapppp_277: 1254486831
+      mapppp_278: 1991951910
+      mapppp_279: -1395732495
+      mapppp_28: 956611425
+      mapppp_280: 1736671072
+      mapppp_281: -2142088176
+      mapppp_282: 642327268
+      mapppp_283: -1003295944
+      mapppp_284: 458537773
+      mapppp_285: 1500612423
+      mapppp_286: -1507609624
+      mapppp_287: 1005551178
+      mapppp_288: -1701882663
+      mapppp_289: -1883403405
+      mapppp_29: 1417213504
+      mapppp_290: 547167961
+      mapppp_291: -363209339
+      mapppp_292: -292452924
+      mapppp_293: 87877371
+      mapppp_3: -1001971324
+      mapppp_30: 1446721560
+      mapppp_31: -1133664726
+      mapppp_32: 2143710931
+      mapppp_33: -1646086737
+      mapppp_34: -1337983708
+      mapppp_35: -985000675
+      mapppp_36: 405647029
+      mapppp_37: 278332420
+      mapppp_38: 1545239695
+      mapppp_39: -383342240
+      mapppp_4: -906244929
+      mapppp_40: -1247110097
+      mapppp_41: 738943822
+      mapppp_42: -1106847707
+      mapppp_43: -1680709678
+      mapppp_44: -508572061
+      mapppp_45: 654907323
+      mapppp_46: 2118393613
+      mapppp_47: -1529651444
+      mapppp_48: 1618134370
+      mapppp_49: -998592817
+      mapppp_5: -2052486521
+      mapppp_50: -928775839
+      mapppp_51: -1581603795
+      mapppp_52: 1754807766
+      mapppp_53: 311077441
+      mapppp_54: 10667180
+      mapppp_55: 334794037
+      mapppp_56: -40885595
+      mapppp_57: 1422995294
+      mapppp_58: -1505002159
+      mapppp_59: 1270117278
+      mapppp_6: 1970948016
+      mapppp_60: 1332586859
+      mapppp_61: -698525964
+      mapppp_62: -2137922629
+      mapppp_63: -1595730018
+      mapppp_64: 1450632056
+      mapppp_65: -1320559664
+      mapppp_66: 1596967689
+      mapppp_67: -610386835
+      mapppp_68: -206276576
+      mapppp_69: 1686322738
+      mapppp_7: -732186781
+      mapppp_70: -1701900207
+      mapppp_71: -726724493
+      mapppp_72: 1354847953
+      mapppp_73: -532916317
+      mapppp_74: -1789069928
+      mapppp_75: 1260796405
+      mapppp_76: -1528335253
+      mapppp_77: 391834426
+      mapppp_78: 1669514209
+      mapppp_79: 2015248589
+      mapppp_8: 399537755
+      mapppp_80: -1979418410
+      mapppp_81: 378786912
+      mapppp_82: 1530997992
+      mapppp_83: -53657211
+      mapppp_84: -1346577834
+      mapppp_85: -13076548
+      mapppp_86: 1151702813
+      mapppp_87: 1222194221
+      mapppp_88: -1952538744
+      mapppp_89: -1203711643
+      mapppp_9: -1680582317
+      mapppp_90: -1103950931
+      mapppp_91: 1780071881
+      mapppp_92: -307381348
+      mapppp_93: -1308322857
+      mapppp_94: 1830805200
+      mapppp_95: 2130160932
+      mapppp_96: 287682697
+      mapppp_97: -1303456479
+      mapppp_98: -533410798
+      mapppp_99: -6719119
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
