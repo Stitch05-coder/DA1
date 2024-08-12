@@ -25,6 +25,10 @@ public class EnemySpawner : MonoBehaviour
     private int enemiesLeftToSpawn;
     private bool isSpawning = false;
 
+    private int countWave = 1;
+
+    
+
 
     private void Awake()
     {
@@ -46,11 +50,20 @@ public class EnemySpawner : MonoBehaviour
             enemiesLeftToSpawn--;
             enemiesAlive++;
             timeSinceLastSpawn = 0f;
+
+            if (countWave == 3)
+            {
+                if (enemiesLeftToSpawn == 0 && enemiesAlive == 0)
+                {
+                    Time.timeScale = 0;
+                }
+            }
         }
 
         if (enemiesAlive == 0 && enemiesLeftToSpawn == 0)
         {
             EndWave();
+            countWave++;
         }
     }
 

@@ -27,8 +27,12 @@ public class EnemyMovement : MonoBehaviour
 
             if (pathIndex == LevelManager.main.path.Length)
             {
-                Destroy(rb);
+                Destroy(gameObject);
                 return;
+            }
+            else
+            {
+                target = LevelManager.main.path[pathIndex];
             }
         }
     }

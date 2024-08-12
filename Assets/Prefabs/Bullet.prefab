@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6195960342161913337}
   - component: {fileID: 6170127945288114184}
   - component: {fileID: 6600412320138665663}
-  - component: {fileID: 3503771778947663973}
+  - component: {fileID: 6371938702384379524}
   m_Layer: 7
   m_Name: Bullet
   m_TagString: Untagged
@@ -76,7 +76,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
+  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b,
+    type: 3}
   m_Color: {r: 1, g: 0.9684142, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -149,7 +150,7 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.49999997
---- !u!114 &3503771778947663973
+--- !u!114 &6371938702384379524
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

@@ -13,8 +13,7 @@ GameObject:
   - component: {fileID: 1544496944183894721}
   - component: {fileID: 609679620780275717}
   - component: {fileID: -4489765120942305700}
-  - component: {fileID: 5761267797070327829}
-  - component: {fileID: 4121992806618431677}
+  - component: {fileID: 3299771829199724884}
   m_Layer: 6
   m_Name: Enemy
   m_TagString: Untagged
@@ -78,7 +77,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
+  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b,
+    type: 3}
   m_Color: {r: 1, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -165,20 +165,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 609679620780275717}
   moveSpeed: 2
---- !u!114 &5761267797070327829
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8081258556095289747}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2793d24f8aef864448f07d8b66ed61b8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hitPoints: 2
---- !u!114 &4121992806618431677
+--- !u!114 &3299771829199724884
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -191,3 +178,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hitPoints: 2
+  currencyWorth: 50
