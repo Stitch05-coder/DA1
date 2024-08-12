@@ -9,11 +9,6 @@ public class Health : MonoBehaviour
     [SerializeField] private int currencyWorth = 50;
     private bool isDetroyed = false;
 
-<<<<<<< Updated upstream
-    private bool isDetroyed = false;
-=======
-    
->>>>>>> Stashed changes
     public void TakeDamage( int dmg)
     {
         hitPoints -= dmg;
@@ -21,10 +16,9 @@ public class Health : MonoBehaviour
         if (hitPoints <= 0 && !isDetroyed)
         {
             EnemySpawner.onEnemyDestroy.Invoke();
-<<<<<<< Updated upstream
-=======
+
             LevelManager.main.IncreaseCurrency(currencyWorth);
->>>>>>> Stashed changes
+
             isDetroyed = true;
 
             Destroy(gameObject);

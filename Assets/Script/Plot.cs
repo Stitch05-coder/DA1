@@ -8,10 +8,6 @@ public class Plot : MonoBehaviour
     [SerializeField] private SpriteRenderer sr;
     [SerializeField] private Color hoverColor;
 
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
     private GameObject tower;
     private Color startColor;
 
@@ -32,19 +28,10 @@ public class Plot : MonoBehaviour
 
     private void OnMouseDown()
     {
-<<<<<<< Updated upstream
+
         if(tower != null) return;
 
         GameObject towerToBuild = BuildManager.main.GetSelectedTower();
         tower = Instantiate(towerToBuild, transform.position, Quaternion.identity);
     }
-
-=======
-        if (tower != null) return;
-
-        GameObject towerToBuild = BuildManager.main.GetSelectedTowers();
-
-        tower = Instantiate(towerToBuild, transform.position, Quaternion.identity);
-    }
->>>>>>> Stashed changes
 }

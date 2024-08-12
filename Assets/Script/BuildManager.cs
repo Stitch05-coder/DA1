@@ -16,11 +16,8 @@ public class BuildManager : MonoBehaviour
         main = this;
     }
 
-<<<<<<< Updated upstream
     public GameObject GetSelectedTower()
-=======
-    public GameObject GetSelectedTowers()
->>>>>>> Stashed changes
+
     {
         return towerPrefabs[selectedTower];
     }
