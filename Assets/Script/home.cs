@@ -1,24 +1,46 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 public class home : MonoBehaviour
 {
-    [SerializeField] int maxheal;
-    int currentheal;
+    [SerializeField] int maxHeal;
+    int currentHeal;
     public mau hp;
+    string sce = "loss";
     private void Start()
-    {
-        currentheal = maxheal;
-        hp.thanhhp(currentheal,maxheal);
+    { currentHeal = maxHeal;
+        hp.thanhhp(currentHeal, maxHeal);
     }
-    public void takedame(int dame)
+    //private void OnTriggerEnter2D(Collider2D collision)
+    // {
+    //     if(collision.CompareTag("quai"))
+    //     {
+    //         takedame(10);
+    //     }
+    // }
+    private void Update()
     {
-        currentheal -= dame;
-
-        if(currentheal <0)
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
-            
+            takedam(10);
+        }
+
+    }
+
+        public void takedame(int dame)
+        {
+            takedam(dame);
+        }
+        public void takedam(int dame)
+        {
+            currentHeal -= dame;
+
+            if (currentHeal < 0)
+            {
+                SceneManager.LoadScene(sce);
+            }
         }
     }
-}
