@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 public class EnemySpawner : MonoBehaviour
 {
@@ -56,6 +57,8 @@ public class EnemySpawner : MonoBehaviour
                 if (enemiesLeftToSpawn == 0 && enemiesAlive == 0)
                 {
                     Time.timeScale = 0;
+
+                    SceneManager.LoadScene(1);
                 }
             }
         }
