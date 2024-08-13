@@ -61,7 +61,6 @@ public class EnemySpawner : MonoBehaviour
                 if (enemiesLeftToSpawn == 0 && enemiesAlive == 0)
                 {
                     Time.timeScale = 0;
-
                     SceneManager.LoadScene(1);
                 }
             }
