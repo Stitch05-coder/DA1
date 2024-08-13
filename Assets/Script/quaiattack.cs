@@ -5,16 +5,18 @@ using UnityEngine;
 public class quaiattack : MonoBehaviour
 {
     public int dame;
-
+    home homes;
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Home")) 
         {
-            InvokeRepeating("Damehome", 0, 1);
+            homes = collision.GetComponent<home>();
+            InvokeRepeating("Damehome", 0, 0.1f);
         }
     }
     void Damehome()
     {
-        int dame;
+       homes.takedam(dame);
+        Debug.Log("Home take dame " + dame);
     }
 }
